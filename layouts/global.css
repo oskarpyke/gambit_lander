@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Brown";
+  src: local("Brown"), url(~assets/Brown-Bold.ttf) format("truetype");
+}
+
+html {
+  font-family: "Brown";
+}
